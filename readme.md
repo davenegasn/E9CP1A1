@@ -89,6 +89,7 @@ class Morseable
     h = '--...' if number == 7
     h = '---..' if number == 8
     h = '----.' if number == 9
+    
   end
 
   def to_morse
